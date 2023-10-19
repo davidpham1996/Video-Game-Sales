@@ -20,6 +20,10 @@
 
 **Pivot Table:**
 
+<img width="516" alt="image" src="https://github.com/davidpham1996/Video-Game-Sales/assets/148404076/41718e48-79a5-42f2-a9cd-ac76a3a17892">
+
+**Result:** 
+
 <img width="121" alt="image" src="https://github.com/davidpham1996/Video-Game-Sales/assets/148404076/7a317f07-8c30-4d8d-9520-532f8daffea3">
 
 **Plotting Pivot Table**
@@ -34,6 +38,10 @@
 
 **Pivot Table:**
 
+<img width="514" alt="image" src="https://github.com/davidpham1996/Video-Game-Sales/assets/148404076/31b9c44e-6f8a-48c9-ab42-01849764e3ab">
+
+**Result:** 
+
 <img width="99" alt="image" src="https://github.com/davidpham1996/Video-Game-Sales/assets/148404076/3ea779a1-ba33-444b-b5e7-f739dad248e1">
 
 **Plotting Pivot Table**
@@ -47,6 +55,10 @@
 ## **7. Who are the Top selling 5 VG publishers?**
 
 **Pivot Table:**
+
+<img width="511" alt="image" src="https://github.com/davidpham1996/Video-Game-Sales/assets/148404076/34c450d7-3848-4aa0-9323-c5ff804ec3b9">
+
+**Result:** 
 
 <img width="177" alt="image" src="https://github.com/davidpham1996/Video-Game-Sales/assets/148404076/31a30a26-854d-4098-85bc-fbcc1cd6968e">
 
