@@ -26,7 +26,7 @@
 
 <img width="121" alt="image" src="https://github.com/davidpham1996/Video-Game-Sales/assets/148404076/7a317f07-8c30-4d8d-9520-532f8daffea3">
 
-**Plotting Pivot Table**
+**Plotting Pivot Table:**
 
 <img width="517" alt="image" src="https://github.com/davidpham1996/Video-Game-Sales/assets/148404076/1fd62095-af48-47f7-adaa-c53eea64fa39">
 
@@ -44,7 +44,7 @@
 
 <img width="99" alt="image" src="https://github.com/davidpham1996/Video-Game-Sales/assets/148404076/3ea779a1-ba33-444b-b5e7-f739dad248e1">
 
-**Plotting Pivot Table**
+**Plotting Pivot Table:**
 
 <img width="261" alt="image" src="https://github.com/davidpham1996/Video-Game-Sales/assets/148404076/da3e9ea7-00cc-4352-95e4-a436ea1608a3">
 
@@ -62,7 +62,7 @@
 
 <img width="177" alt="image" src="https://github.com/davidpham1996/Video-Game-Sales/assets/148404076/31a30a26-854d-4098-85bc-fbcc1cd6968e">
 
-**Plotting Pivot Table**
+**Plotting Pivot Table:**
 
 <img width="198" alt="image" src="https://github.com/davidpham1996/Video-Game-Sales/assets/148404076/4bebcbb0-26d5-478a-84c9-ef8fb5e69f1f">
 
