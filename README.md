@@ -12,7 +12,7 @@
 
 <img width="508" alt="image" src="https://github.com/davidpham1996/Video-Game-Sales/assets/148404076/c676decb-0ecb-4cde-8176-4a4e37235ddf">
 
-## **4. We create a "Total Sales Column"** 
+## **4. Creating a "Total Sales Column"** 
 
 <img width="503" alt="image" src="https://github.com/davidpham1996/Video-Game-Sales/assets/148404076/8c5aadb0-8ca0-4fa3-bbbd-f8fd8bb16cd5">
 
